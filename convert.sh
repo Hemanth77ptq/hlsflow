@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="testt" # Output Path (Same will be pushed in main also)
-input_url="https://tg-movies4u.tgmkvofcl.workers.dev/557180?hash=AgADIA"
-input_extension="mkv" # Extension of file url
+input_url="https://vod01.akt.hotstar-cdn.net/videos/football/inallow-bigboss-tel-s8/1540032592/82655b5bab754b9aa7cf6c21623ef510/index_7.m3u8"
+input_extension="m3u8" # Extension of file url
 
 
 
