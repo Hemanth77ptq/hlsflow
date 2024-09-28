@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="seni" # Output Path (Same will be pushed in main also)
-input_url="https://drive.google.com/file/d/1iX8kAYO3FZaTn3gKGcnCxPvlSE-o-pKt/edit?pli=1" # Input direct file url
+input_url="https://tg-movies4u.tgmkvofcl.workers.dev/593533?hash=AgADBB" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
